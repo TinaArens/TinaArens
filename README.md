@@ -3,14 +3,12 @@
 - 🌱 I’m currently learning tableau, sql and python  
 - 💞️ I’m looking for a junior data analyst position starting in summer 2023
 - 📫 How to reach me tina.arens.rosa@gmail.com
-- :flower: 
+- 🧠: Assertive Consul (ESFJ A) @ 16personalities
 
 To become a data analyst in the HR TECH environment for an agile start up or consulting team, I want to help organizations answering
 business questions by analysing people data and therefore creating a positive experience for them and their employees.
 
-I am looking for a family friendly employer that values a respectful working environment promotes team spirit and is hard working but fun At the same time, I'm looking for a team that esteems my career change to a data analyst and shares their knowledge with me in order to quickly develop professionally I can bring my can do attitude and cheerful team spirit along with experience in research and key account management coupled with a great willingness to learn
-
-
+I am looking for a family friendly employer that values a respectful working environment promotes team spirit and is hard working but fun At the same time, I'm looking for a team that esteems my career change to a data analyst and shares their knowledge with me in order to quickly develop professionally I can bring my can do attitude and cheerful team spirit along with experience in research and key account management coupled with a great willingness to learn. 
 
 
 <!---
