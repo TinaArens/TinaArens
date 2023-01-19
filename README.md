@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TinaArens
 - 👀 I’m interested in people analytics and agile topics
 - 🌱 I’m currently learning tableau, sql and python  
-- 💞️ I’m looking for a junior data analyst position starting in summer 2023
+- 💞️ I’m looking for a junior data analyst position starting in autumn 2023
 - 📫 How to reach me tina.arens.rosa@gmail.com
 - 🧠: Assertive Consul (ESFJ A) @ 16personalities
 
